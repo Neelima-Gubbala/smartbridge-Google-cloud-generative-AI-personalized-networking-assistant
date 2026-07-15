@@ -1,0 +1,2 @@
+# smartbridge-Google-cloud-generative-AI-personalized-networking-assistant
+the personalized networking assistant is The Personalized Networking Assistant is an AI-powered web application that helps users generate smart, tailored conversation starters for professional or social networking events.  . The platform also offers factchecking using Wikipedia APIs and allow users to log their conversations.
