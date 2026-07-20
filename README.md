@@ -8,6 +8,9 @@ The Personalized Networking Assistant is an AI-powered web application that help
 - Wikipedia API integration for fact checking
 - Conversation logging
 
+##ducumentation section:
+https://drive.google.com/drive/folders/1bqgHy2B597boAC7CPM0W8SooyyRMHUDv
+
 ## Technologies Used
 - Google Cloud Vertex AI
 - Python
